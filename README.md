@@ -12,7 +12,15 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications and I also work as a Digital Marketing expert.
+- 🔭 As a Software Engineer specializing in Full-Stack Web Development, I've cultivated a robust skill set encompassing HTML, CSS, JavaScript, React, Node.js, AWS, Python, and Django. 
+      Currently, I'm embarking on a journey to expand my expertise into the realm of digital marketing.
+      My proficiency in front-end technologies allows me to craft immersive and responsive user interfaces, while my expertise in back-end development empowers me to build scalable and efficient web applications. 
+      My knowledge of Python and Django adds depth to my ability to create sophisticated backend solutions that drive functionality and performance.
+      In parallel with my technical pursuits, I'm actively immersing myself in the world of digital marketing, eager to understand user behavior and leverage strategies to enhance product engagement and growth. 
+      This holistic approach enables me to fuse technological innovation with effective marketing strategies, ensuring comprehensive solutions.
+      Driven by a passion for continuous learning, I am committed to staying at the forefront of both technical advancements and marketing trends. I'm excited about the prospect of contributing my multifaceted skill set        to innovative projects and dynamic teams that foster collaboration and innovation.
+      Let's connect to explore potential synergies where I can apply my technical acumen and growing expertise in digital marketing to drive impactful outcomes in your endeavors.
+
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Mahmoud-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-a-879003200)
