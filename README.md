@@ -12,14 +12,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- 🔭 As a Software Engineer specializing in Full-Stack Web Development, I've cultivated a robust skill set encompassing HTML, CSS, JavaScript, React, Node.js, AWS, Python, and Django. 
-      Currently, I'm embarking on a journey to expand my expertise into the realm of digital marketing.
-      My proficiency in front-end technologies allows me to craft immersive and responsive user interfaces, while my expertise in back-end development empowers me to build scalable and efficient web applications. 
-      My knowledge of Python and Django adds depth to my ability to create sophisticated backend solutions that drive functionality and performance.
-      In parallel with my technical pursuits, I'm actively immersing myself in the world of digital marketing, eager to understand user behavior and leverage strategies to enhance product engagement and growth. 
-      This holistic approach enables me to fuse technological innovation with effective marketing strategies, ensuring comprehensive solutions.
-      Driven by a passion for continuous learning, I am committed to staying at the forefront of both technical advancements and marketing trends. I'm excited about the prospect of contributing my multifaceted skill set        to innovative projects and dynamic teams that foster collaboration and innovation.
-      Let's connect to explore potential synergies where I can apply my technical acumen and growing expertise in digital marketing to drive impactful outcomes in your endeavors.
+- 🔭 Welcome to my profile! I'm Mahmoud, a dedicated software developer with a focus on web technologies. My expertise lies in the MERN (MongoDB, Express.js, React, Node.js) stack, where I've honed my skills in crafting dynamic and responsive web applications.
+With a solid foundation in JavaScript, I'm adept at building interactive user interfaces with React and developing robust backend systems using Node.js and Express.js. From designing database schemas with MongoDB to implementing RESTful APIs, I enjoy every aspect of the web development process.
+In addition to my proficiency in the MERN stack, I've embraced TypeScript for its strong typing and scalability benefits, enhancing my codebase's robustness and maintainability. I'm also skilled in utilizing Tailwind CSS to streamline my UI development process, creating sleek and customizable designs with ease.
+Moreover, I have hands-on experience with Next.js, leveraging its capabilities for server-side rendering and routing to build high-performance web applications with React. Combined with my knowledge of TypeScript, Tailwind CSS, and Next.js, I'm well-equipped to tackle complex front-end challenges and deliver exceptional user experiences.
+Furthermore, I have a strong grasp of Data Structures and Algorithms (DSA), which I've acquired through dedicated study and practical application. Understanding DSA is crucial for writing efficient and scalable code, and I continuously strive to improve my problem-solving skills through challenges and projects.
+I'm deeply passionate about continuous learning and growth, always eager to expand my skill set, and stay abreast of emerging technologies and best practices in the ever-evolving field of software development.
+Let's connect and explore opportunities to collaborate on exciting projects and leverage technology to make a positive impact.
 - ⚡ Digital Marketing
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
@@ -30,8 +29,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp; -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
@@ -40,8 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
