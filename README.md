@@ -11,24 +11,23 @@
 
 Full Stack Developer | MEAN Stack | Next.js Expert <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭I am a highly skilled Full Stack Developer with a strong focus on the MEAN stack and modern web frameworks like Next.js. My diverse skill set enables me to deliver efficient, scalable, and secure digital solutions across various domains.
-
-Core Skills & Technologies:
+- 🔭I am a highly skilled Full Stack Developer with a strong focus on the MEAN stack and modern web frameworks like Next.js. My diverse skill set enables me to deliver efficient, scalable, and secure digital solutions across various domains.<br>
+- Core Skills & Technologies:<br>
 • Front-End: JavaScript, TypeScript, Next.js, Angular, React.js, Tailwind CSS, Sass
-Back-End: Node.js, Express.js, RESTful APIs
+Back-End: Node.js, Express.js, RESTful APIs<br>
 • Database Management: MySQL, MongoDB
-MEAN Stack Expertise: Comprehensive knowledge of MongoDB, Express.js, Angular, and Node.js
-• Design & Architecture: Design Patterns, Object-Oriented Design (OOD)
-• Algorithms & Data Structures: Strong grasp of DSA for efficient coding solutions
-• Additional Expertise: Networking, Operating Systems
-• Other Technologies: C++, Java, Python, Django
-What I Offer:
-• End-to-End Development: Full-stack solutions with a primary focus on the MEAN stack, Next.js, and RESTful APIs.
-• Efficient Problem-Solving: Leveraging data structures and algorithms to build high-performance applications.
-• Scalable Architectures: Designing and implementing robust back-end systems and database management.
-• Responsive Web Design: Creating dynamic, user-friendly interfaces with a focus on optimal user experience.
+MEAN Stack Expertise: Comprehensive knowledge of MongoDB, Express.js, Angular, and Node.js<br>
+• Design & Architecture: Design Patterns, Object-Oriented Design (OOD)<br>
+• Algorithms & Data Structures: Strong grasp of DSA for efficient coding solutions<br>
+• Additional Expertise: Networking, Operating Systems<br>
+• Other Technologies: C++, Java, Python, Django<br>
+- What I Offer:<br>
+• End-to-End Development: Full-stack solutions with a primary focus on the MEAN stack, Next.js, and RESTful APIs.<br>
+• Efficient Problem-Solving: Leveraging data structures and algorithms to build high-performance applications.<br>
+• Scalable Architectures: Designing and implementing robust back-end systems and database management.<br>
+• Responsive Web Design: Creating dynamic, user-friendly interfaces with a focus on optimal user experience.<br>
 
-I am passionate about building cutting-edge web applications and am always looking for opportunities to solve complex challenges. Whether you need a responsive front-end, a powerful back-end, or a seamless full-stack integration, I am equipped to deliver exceptional results.
+I am passionate about building cutting-edge web applications and am always looking for opportunities to solve complex challenges. Whether you need a responsive front-end, a powerful back-end, or a seamless full-stack integration, I am equipped to deliver exceptional results.<br>
 - ⚡ Digital Marketing
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
