@@ -8,17 +8,27 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-👨‍🚀
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+Full Stack Developer | MEAN Stack | Next.js Expert <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 Welcome to my profile! I'm Mahmoud, a dedicated software developer with a focus on web technologies. My expertise lies in the MERN (MongoDB, Express.js, React, Node.js) stack, where I've honed my skills in crafting dynamic and responsive web applications.
-With a solid foundation in JavaScript, I'm adept at building interactive user interfaces with React and developing robust backend systems using Node.js and Express.js. From designing database schemas with MongoDB to implementing RESTful APIs, I enjoy every aspect of the web development process.
-In addition to my proficiency in the MERN stack, I've embraced TypeScript for its strong typing and scalability benefits, enhancing my codebase's robustness and maintainability. I'm also skilled in utilizing Tailwind CSS to streamline my UI development process, creating sleek and customizable designs with ease.
-Moreover, I have hands-on experience with Next.js, leveraging its capabilities for server-side rendering and routing to build high-performance web applications with React. Combined with my knowledge of TypeScript, Tailwind CSS, and Next.js, I'm well-equipped to tackle complex front-end challenges and deliver exceptional user experiences.
-Furthermore, I have a strong grasp of Data Structures and Algorithms (DSA), which I've acquired through dedicated study and practical application. Understanding DSA is crucial for writing efficient and scalable code, and I continuously strive to improve my problem-solving skills through challenges and projects.
-I'm deeply passionate about continuous learning and growth, always eager to expand my skill set, and stay abreast of emerging technologies and best practices in the ever-evolving field of software development.
-Let's connect and explore opportunities to collaborate on exciting projects and leverage technology to make a positive impact.
+- 🔭I am a highly skilled Full Stack Developer with a strong focus on the MEAN stack and modern web frameworks like Next.js. My diverse skill set enables me to deliver efficient, scalable, and secure digital solutions across various domains.
+
+Core Skills & Technologies:
+• Front-End: JavaScript, TypeScript, Next.js, Angular, React.js, Tailwind CSS, Sass
+Back-End: Node.js, Express.js, RESTful APIs
+• Database Management: MySQL, MongoDB
+MEAN Stack Expertise: Comprehensive knowledge of MongoDB, Express.js, Angular, and Node.js
+• Design & Architecture: Design Patterns, Object-Oriented Design (OOD)
+• Algorithms & Data Structures: Strong grasp of DSA for efficient coding solutions
+• Additional Expertise: Networking, Operating Systems
+• Other Technologies: C++, Java, Python, Django
+What I Offer:
+• End-to-End Development: Full-stack solutions with a primary focus on the MEAN stack, Next.js, and RESTful APIs.
+• Efficient Problem-Solving: Leveraging data structures and algorithms to build high-performance applications.
+• Scalable Architectures: Designing and implementing robust back-end systems and database management.
+• Responsive Web Design: Creating dynamic, user-friendly interfaces with a focus on optimal user experience.
+
+I am passionate about building cutting-edge web applications and am always looking for opportunities to solve complex challenges. Whether you need a responsive front-end, a powerful back-end, or a seamless full-stack integration, I am equipped to deliver exceptional results.
 - ⚡ Digital Marketing
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
